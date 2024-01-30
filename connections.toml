@@ -1,0 +1,8 @@
+[default]
+user='ankitgupta89'
+password='Touchstone98@'
+warehouse='COMPUTE_WH'
+account='lp98491.ap-southeast-1'
+database='SQLBASICS'
+schema='SQLSCHEMA'
+
